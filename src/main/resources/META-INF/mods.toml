@@ -9,6 +9,7 @@ license="LGPL-3.0-only"
     version="1.2.2"
     displayName="OpticManager"
     displayURL="https://modrinth.com/mod/opticmanager"
+    displayTest="MATCH_VERSION"
     authors="CreativeMD"
     description='''Sync client side configurations. Modify length of day and night.'''
 
